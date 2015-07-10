@@ -9,4 +9,4 @@ The implementation makes use of high performance algorithms such as a load balan
 
 For more information about the project please visit the [project's site.](http://www.fing.edu.uy/inco/grupos/cecal/hpc/CCED/index.php?n=Main.HomePage) 
 
-You can find the project's report in  <i class="icon-provider-dropbox"></i> [**Dropbox.**](https://www.dropbox.com/s/i7rf9hj2oo4a3mp/Proyecto%20Cloud%20Informe%20Final.pdf?dl=0) 
+You can find the project's report in  <i class="icon-provider-dropbox"></i> [Dropbox.](https://www.dropbox.com/s/i7rf9hj2oo4a3mp/Proyecto%20Cloud%20Informe%20Final.pdf?dl=0) 
