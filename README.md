@@ -1,4 +1,4 @@
-Cloud Computing Embrionario
+Cloud Computing for Scientific Applications
 ===================
 
 This project presents a solution for the execution of biological software that allows to reveal the complex embryonic development that use fluorescence correlation spectroscopy under the cloud computer paradigm.
